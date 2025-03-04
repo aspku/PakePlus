@@ -1,7 +1,7 @@
 [package]
 name = "zhanid"
-version = "0.0.1"
-description = "www.zhanid.com"
+version = "1.0.0"
+description = "站长工具网"
 authors = ["1024xiaoshen"]
 edition = "2021"
 
